@@ -18,7 +18,7 @@
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+The first experiemnt was interesting and a little difficult as I am new to coding. What I didn't understand was the meaning of each block and what effect they had when joined together.
 
 This experiment could be the basis of a real world application such as (insert something here).
 
