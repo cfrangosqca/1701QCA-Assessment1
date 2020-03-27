@@ -5,34 +5,33 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Guitar Project
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Bad Mother/ Good mother 
 
-(Insert URL to project)
+http://anninaruest.com/badmother.html
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+Anna Rust audiovisual performance is related to my project as it is using electronic audio and songs as well as with a visual performance to create an interactive work. Her work gave me an example on how my porject does not need to be complex and how I can use and change everyday object into an interactive device. 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
 *For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+Before reading the source, I went into the reading thinking that it was going to be all about the electronic and practical designing of everyday things. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+Once I finished the reading, I was surprised about what the actual article was about and the information that read. As a result, I developed an understanding on how as human we interact with objects and experiences by our discovery. And how we discover things through affordances, signifiers, mapping, feedback and conceptual models. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+Something I would be more interested in knowing how to develop an idea/product/process/design. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+This reading relates to my project because in order to create a product or interactive work which audiences can have a good experience. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
