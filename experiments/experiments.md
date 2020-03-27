@@ -10,7 +10,6 @@
 
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/experiments/experiement1.JPEG)
 
