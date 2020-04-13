@@ -13,11 +13,62 @@ Guitar Project
 ### Related project 1 ###
 Bad Mother/ Good mother 
 
-http://anninaruest.com/badmother.html
-
-![Image](missingimage.png)
-
 Anna Rust audiovisual performance is related to my project as it is using electronic audio and songs as well as with a visual performance to create an interactive work. Her work gave me an example on how my porject does not need to be complex and how I can use and change everyday object into an interactive device. 
+
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/lpm.jpg)
+http://anninaruest.com/badmother.html
+### Related project 2 ###
+At the Queensland Museum there is a Exhibition called Sparklab where there is interactive science, technology, engineering and maths, ideal for 6 to 13 years old. 
+
+By exploring the 'sparklab' page I reached an understanding on how interactive media can be fin, explorative, creative amd bring people together. 
+
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example2.png)
+https://sparklab.qm.qld.gov.au/
+
+### Related project 3 ###
+Papir Machine, is an interactive booklet that you can make STEM toys. This happens through the combination of paper with an electronic circuitry. 
+
+In the booklet there are six electronic paper toys which are resistance, gyroscope, playing track, wind sensor, writing tack and tilt switch. 
+
+I'm amazed how this person was able to transform paper with electronics into an interactive media. It's a good example on how materials and forms of the media doesn't need to be overcomplicated and sophisticated. 
+
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example3.png)
+https://www.theverge.com/circuitbreaker/2018/1/16/16897798/papier-machine-interactive-booklet-stem-toy-kickstarter
+
+### Related project 4 ###
+Lorenzo Bravi’s Hit The Beat is an interactive drum machine that can play music by using everyday objects. This is possible, as the machine is based on an Arduino platform (this was also mentioned in the 'Prototyping Interactive Objects' artcicale/reading). 
+
+An Arduino platform is an open-source hardware that has designed several single-board microcontrollers and kits that allows user to build their own digital devices. 
+
+Using the software, it performs as the translator of a message in midi format and triggers a physical solenord percussion. 
+
+He combined music, electronics and everyday objects to create something the audience is familiar and unfamiliar with. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example4.jpg)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example5.jpg)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example6.jpg)
+http://www.lorenzobravi.com/projects/hit-the-beat/
+
+### Related project 5 ###
+Roxanne Brennen created a selection of dinning tools that enhance the pleasure of eating by realising endorphins just like sex does. 
+
+They trigger the same brain activity as sexual foreplay. 
+
+ "Your brain reacts to eating the same way that it reacts to sex," Brennen told Dezeen. "It's all about the pleasure centre being activated and the number of endorphins released."
+
+Her work exapnded my boxed thinking of how interactive media has to be practical and make logical sense. I realised that it really doesn't have to be like that. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example7.jpg)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example8.jpg)
+https://www.youtube.com/watch?v=GICmdqoTEvg
+https://www.dezeen.com/2017/10/26/dining-toys-tableware-eating-roxanne-brennen-dutch-design-week-design-academy-eindhoven/
+
+### Related project 6 ###
+Computations is an art film by Maxim Zhestkov himself. 
+
+I was quite confused on the meaning.aim/purpose of this work however I hope to do further research on Maxim Zhestkov. 
+
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example9.jpg)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/example10.gif)
+https://zhestkov.studio/
 
 ## Reading reflections ##
 
