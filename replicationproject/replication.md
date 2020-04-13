@@ -76,14 +76,54 @@ The idea in this reading that could be used to improve my project is when coming
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
 The challenging part that I struggled with throughout the entire project was trying to brainstorm a design and porduct idea. Evenafter going through enless protypes, rsearching interactive products, musical interactive desings or performance or works and the NIME website, I still found that I had a mental block. So when I sat down to sketch some designs I saw some cardboard laying on the shelf and thought that the cardboard would be an effective and easier material to use for the project design. In the end I came up with creating a musical that makes various tones and when tilted in different directions. The age bracket would be for under 10 year olds. 
-
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/1.JPG)
 
 *Include screenshots of the code you have used.*
 
 The sketch design. 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/2.JPG)
-![Image](![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/2.JPG))
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/3.JPG)
+
+I calculated the length and width of the box by measuring space and length of the microbit with the crocodile chips and earphones and the battery. Once I found that I doubled that measurement for the sides of the box which were 13cm long. I outlined the 6 sides on the cardboard using the square piece that I cut. Also the indication plan was to use an old nutella jar inside the box so it can hold the crocodile clips and ballery however after giving it a try the container would weigh too much and it was't practical.
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/4.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/5.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/6.jpg)
+
+On each square cardboard piece I added boarders on two sides opposite of each other. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/7.JPG)
+
+To find the size of the microbit I pressed it against a piece of paper to get the imprint of the buttons and drew around it to get the outline. Using that I used a rule to get the exact measurements to sketch on one square and then make the incision. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/8.jpg)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/9.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/10.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/11.jpg)
+
+Once I had taped the microbit through the incision and open window of the square piece. I realised that the around the window you could see the inside of the cardboard material and it was extremely unflattering. I had also remember how in the tutorial we discussed that appearance is a vital and essential part and detail of a product as it determines how appealing it can be for audience and viewers. Because in reality if it doesnt look good or at least partly appealing then consumers will not want to interactive with the device which basically defeats the purpose. So to create a clean edge and make it look a lot more appealing I taped washi tape around the window. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/c/12.JPG)
+
+For the earphone I pressed the speaker side onto the cardboard to get the imprint and cut the the oval shape with a heavy duty knife. The hole was unevenly also because you could see the inside and lining of the cardboard material it looked unfinished. I sealed it off with the same tape that was used for the microbit window. However after using a unusal technique it ended up looking worse then it did before:
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/15.JPG)
+
+The reason it resulted like that was because I attempted to curve the tape around the hole but that made folds of the tape. I removed it and started over again with a different techique. The modification:
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/13.JPG)
+
+After all of the sections and small important details were completed then I was able to begin assembling the parts of the box together. 
+I glued two side at a time and let them dry before moving on to the next. All the side glued together:
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/17.JPG)
+
+Construction of the box:
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/18.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/20.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/21.JPG)
+
+Final result: 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/23.JPG)
+
+![Image]()
+![Image]()
+![Image]()
+![Image]()
+![Image]()
 ## Project outcome ##
 
 *Complete the following information.*
