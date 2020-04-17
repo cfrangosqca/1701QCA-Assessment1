@@ -8,7 +8,6 @@
 Guitar Project
 
 ## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 Bad Mother/ Good mother 
@@ -17,6 +16,7 @@ Anna Rust audiovisual performance is related to my project as it is using electr
 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/lpm.jpg)
 http://anninaruest.com/badmother.html
+
 ### Related project 2 ###
 At the Queensland Museum there is a Exhibition called Sparklab where there is interactive science, technology, engineering and maths, ideal for 6 to 13 years old. 
 
@@ -72,8 +72,6 @@ https://zhestkov.studio/
 
 ## Reading reflections ##
 
-*For each of the assigned readings, answer the questions below.*
-
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
 *What I thought before:
@@ -91,11 +89,13 @@ This reading relates to my project because in order to create a product or inter
 What I thought before was that miscrointeractions are not that important and significiant to making a product effective. 
 
 *What I learned:
-Out of all three of the readings, I found that i gained the most insight and information from Dan Saffer's chapter on Designing Microinteractions. Such as, how microinteractions are all around us in our every day lives and how they make or break a product and object from being successful. 
+Out of all three of the readings, I found that i gained the most insight and information from Dan Saffer's chapter on Designing Microinteractions. Such as, how microinteractions are all around us in our every day lives and how they make or break a product and object from being successful. What I found very interestig was the four parts of crafting a success miscrointeraction which are trigger, rules, feedback, loops and modes. 
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: 
+Something I would be interested in knowing, how microinteractions affect the human mind. 
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: 
+The connection between the reading and the project is it gave a step to step figure to follow on helping me find what the trigger and outcome are I am trying to get from the device. 
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
@@ -170,20 +170,25 @@ Construction of the box:
 Final result: 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/23.JPG)
 
-![Image]()
-![Image]()
-![Image]()
-![Image]()
-![Image]()
+I chose the colour yellow and black to paint the box as they are colours of the warning sign. Also the colour yellow draws the audiences attention to the interactive device. 
+
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final2.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final3.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final4.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final5.JPEG)
+
+The video of InterDanger. 
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final1.MP4)
+
 ## Project outcome ##
 
-*Complete the following information.*
-
 ### Project title ###
+InterDanger
 
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+InterDanger is a interactive musical device that creates different tones in acccordance to movement. The device aim is for children to develop an understanding of movement and its correlation to tone, music and sound. 
 
 ### Showcase image ###
 
@@ -199,13 +204,11 @@ Final result:
 
 ### Reflection ###
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+Although the outcome was better then what I had expected I believe that I could have done a lot better and didn't put much effect into making a successful project. However, the parts that I feel were the most successful was the sound quality and the accelerometer as well ad the appearance of the box. What could have done with improvement is my process of researching other projects that were similar in material, shape/design and type. I slacked in that area which ultimately affected the entire construction and result of the device. Futhermore if I had focussed in the research, process and understanding part of the project I believe I would've made a original device that is unique or different from others. This was a major learning curve. 
+
+An approach that I found was useful was turning everyday things and changing the use of them into a interactive device from Lorenzo Bravi's Hit the Beat interactive work and Anna Rust's Bad mother/Good mother interactive performance. 
+
+I tried to gather some ideas from family and an idea which I heard from my brother was to create or use a familier object and combine the microbit to make a musical interactive device. For example, maracas. My original idea was to create maracas with lego and insert the microbit inside. However I found some difficulties and decided to go for something a little more simplistic. Yet at the same time it was a great idea that requires a lot of patience, planning and structure design. 
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
+For an interesting extension of this project would be using a familier everyday object such as a watering jug or a hair brush or a paint brush... etc. 
