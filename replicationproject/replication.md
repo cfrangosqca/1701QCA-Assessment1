@@ -115,21 +115,40 @@ The idea in this reading that could be used to improve my project is when coming
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image]()
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Flow%20Chart.JPEG)
 
 
 ## Process documentation
 
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+Coding process in order:
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code1.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code2.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code3.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code4.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code5.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code6.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code7.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code8.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code9.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code10.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code11.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code12.JPG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code13.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code13.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code14.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code15.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code16.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code17.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code17.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code18.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code19.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code20.JPEG)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code21.MP4)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/code22.JPEG)
 
 The challenging part that I struggled with throughout the entire project was trying to brainstorm a design and porduct idea. Evenafter going through enless protypes, rsearching interactive products, musical interactive desings or performance or works and the NIME website, I still found that I had a mental block. So when I sat down to sketch some designs I saw some cardboard laying on the shelf and thought that the cardboard would be an effective and easier material to use for the project design. In the end I came up with creating a musical that makes various tones and when tilted in different directions. The age bracket would be for under 10 year olds. 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/1.JPG)
 
-*Include screenshots of the code you have used.*
 
 The sketch design. 
 ![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/2.JPG)
@@ -191,16 +210,10 @@ InterDanger
 InterDanger is a interactive musical device that creates different tones in acccordance to movement. The device aim is for children to develop an understanding of movement and its correlation to tone, music and sound. 
 
 ### Showcase image ###
-
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
-
-![Image](missingimage.png)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final%20Image.JPG)
 
 ### Additional view ###
-
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
-
-![Image](missingimage.png)
+![Image](https://github.com/cfrangosqca/1701QCA-Assessment1/blob/master/replicationproject/Final%20video.MP4)
 
 ### Reflection ###
 
